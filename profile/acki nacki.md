@@ -26,3 +26,9 @@ https://github.com/gosh-sh/ever-sdk/tree/feature/masterchain-free
     
 #### tvm-cli:
 https://github.com/gosh-sh/tonos-cli/tree/feature/remove_localhost_resolve
+
+#### test tokens
+
+To get tokens for testing, contact us in our telegram channel:
+
+[![Channel on Telegram](https://img.shields.io/badge/chat-on%20telegram-9cf.svg)](https://t.me/+1tWNH2okaPthMWU0)
