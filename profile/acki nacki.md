@@ -7,7 +7,7 @@ https://docs.gosh.sh/acki-nacki/connection-to-network (WIP)
 ### Documentation
 https://docs.gosh.sh/acki-nacki/overview/ (WIP)
 
-### Blockchain explore
+### Blockchain explorer
 https://ackinacki-testnet.tvmlabs.dev/landing
 
 ### Tools & Resources
