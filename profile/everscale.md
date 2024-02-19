@@ -7,7 +7,7 @@ https://docs.everos.dev/ever-sdk/quick_start
 ### Documentation
 https://docs.everplatform.dev/
 
-### Blockchain explore
+### Blockchain explorer
 https://ton.live/landing
 
 ### Tools & Resources
