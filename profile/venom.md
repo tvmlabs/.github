@@ -7,7 +7,7 @@ https://docs.venom.foundation/build/quick-start-on-testnet/
 ### Documentation
 https://docs.venom.foundation
 
-### Blockchain explore
+### Blockchain explorer
 https://testnet.venomscan.com
 
 ### Tools & Resources
@@ -25,6 +25,9 @@ https://docs.venom.foundation/build/tools-and-resources
 * GraphQL playground: https://venom-testnet.tvmlabs.dev/graphql
 
 #### SDK
+https://github.com/tvmlabs/tvm-sdk  
+https://github.com/tvmlabs/tvm-sdk-js  
+
 https://docs.venom.foundation/build/development-guides/using-ever-sdk-and-devtools-to-work-with-venom
 
 #### everdev-cli
