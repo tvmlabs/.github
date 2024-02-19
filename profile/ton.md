@@ -8,7 +8,7 @@ https://docs.ton.org/develop/get-started-with-ton
 ### Documentation
 https://docs.ton.org/
 
-### Blockchain explore
+### Blockchain explorer
 https://docs.ton.org/participate/explorers
 
 ### Tools & Resources
