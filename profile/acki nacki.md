@@ -25,7 +25,7 @@ current sdk version:
 https://github.com/gosh-sh/ever-sdk/tree/feature/masterchain-free
     
 #### tvm-cli:
-https://github.com/gosh-sh/tonos-cli/tree/feature/remove_localhost_resolve
+https://github.com/tvmlabs/tvm-cli/releases/tag/0.38.0
 
 #### test tokens
 
