@@ -23,10 +23,12 @@ https://ton.live/landing
 * GraphQL playground: https://everscale-testnet.tvmlabs.dev/graphql
 
 #### SDK
-https://docs.everos.dev/ever-sdk/
+
+https://github.com/tvmlabs/tvm-sdk
+https://github.com/tvmlabs/tvm-sdk-js
     
-#### ever-cli
-https://github.com/tonlabs/ever-cli
+#### cli
+https://github.com/tvmlabs/tvm-cli
 
 #### test tokens
 test tokens are available via the bot @everdev_giver_bot
