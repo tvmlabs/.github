@@ -19,9 +19,7 @@ https://ackinacki-testnet.tvmlabs.dev/landing
 https://ackinacki-testnet.tvmlabs.dev/graphql
 
 #### SDK
-More information can be found [here](https://docs.everos.dev/ever-sdk/)
 
-current sdk version:
 https://github.com/gosh-sh/ever-sdk/tree/feature/masterchain-free
     
 #### tvm-cli:
