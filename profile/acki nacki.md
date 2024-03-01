@@ -2,7 +2,7 @@
 Acki Nacki is an asynchronous highly effective proof-of-stake protocol optimized for fast finality while allowing for high throughputs via execution parallelization. It is a probabilistic protocol that achieves higher Byzantine fault tolerance than Bitcoin, BFT or other modern consensus protocols.
 
 ### Quick start
-https://docs.gosh.sh/acki-nacki/connection-to-network
+https://docs.gosh.sh/acki-nacki/connection_to_network/
 
 ### Documentation
 https://docs.gosh.sh/acki-nacki/overview/
