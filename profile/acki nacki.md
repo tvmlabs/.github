@@ -4,8 +4,6 @@ Acki Nacki is an asynchronous highly effective proof-of-stake protocol optimized
 ### Quick start
 https://docs.gosh.sh/acki-nacki/connection_to_network/
 
-https://docs.gosh.sh/acki-nacki/connection_to_network/
-
 ### Documentation
 https://docs.gosh.sh/acki-nacki/overview/
 
