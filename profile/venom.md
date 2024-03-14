@@ -31,6 +31,8 @@ https://github.com/tvmlabs/tvm-sdk-js
 https://docs.venom.foundation/build/development-guides/using-ever-sdk-and-devtools-to-work-with-venom
 
 #### everdev-cli
+
+https://github.com/tvmlabs/tvm-cli  
 https://docs.venom.foundation/build/development-guides/using-ever-sdk-and-devtools-to-work-with-venom/#everdev-cli-tool  
 
 #### test tokens  
